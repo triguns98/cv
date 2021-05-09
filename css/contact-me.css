@@ -1,0 +1,6 @@
+#email:invalid{
+  background-color: red;
+}
+#email:valid{
+  background-color: green;
+}
